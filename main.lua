@@ -1,4 +1,3 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/TragicPlayz/BCheat/main/main.lua"))()
 local venyx = library.new("Blizzard Cheats | Discord.gg/BlizzardServices", 5013109572)
 
 local themes = {
